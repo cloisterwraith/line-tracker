@@ -1,4 +1,4 @@
-# Line Tracking robot
+# Line tracking robot
 
 Code for a line tracker DFRobot using:
 - RoMeo BLE (DFR0305);
